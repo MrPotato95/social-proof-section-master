@@ -109,7 +109,7 @@ main {
 .customer-review-container {
   min-width: 100%;
   display: grid;
-  grid-template-columns: repeat(3, 350px);
+  grid-template-columns: repeat(3, 355px);
   column-gap: 30px;
   justify-content: center;
 }
