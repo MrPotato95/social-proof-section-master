@@ -17,7 +17,7 @@ body {
 
 body {
   background-color: var(--white);
-  background-image: url('../images/bg-pattern-top-desktop.svg'), url('../images/bg-pattern-bottom-desktop.svg');
+  background-image: url('/images/bg-pattern-top-desktop.svg'), url('/images/bg-pattern-bottom-desktop.svg');
   background-position: top left, bottom;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -109,7 +109,7 @@ main {
 .customer-review-container {
   min-width: 100%;
   display: grid;
-  grid-template-columns: repeat(3, 400px);
+  grid-template-columns: repeat(3, 350px);
   column-gap: 30px;
   justify-content: center;
 }
